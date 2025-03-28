@@ -37,21 +37,21 @@ Using BERT, RoBERTa, and TextRank to predict stock price movement based on finan
 **Tech:** Python, Transformers, Scikit-learn, Pandas  
 **Highlights:** Achieved up to 76% accuracy on FNSPID dataset
 
----
+
 
 ### 🧠 [Harmful Brain Activity Classification](https://github.com/yourname/eeg-classifier)
 Built a deep learning model to classify harmful brain activity using EEG signals.  
 **Tech:** Python, KerasCV, EfficientNetV2, YOLOv8  
 **Result:** 0.57 leaderboard loss on Kaggle
 
----
+
 
 ### 🍱 [Lunch Recommendation Web App](https://github.com/yourname/lunch-recommender)
 A web app that recommends lunch using ensemble machine learning algorithms.  
 **Tech:** JavaScript, React, Flask, Naive Bayes, KNN  
 **Role:** Led backend team and mentored frontend integration
 
----
+
 
 ### 🌲 [Tree Detection with Computer Vision](https://github.com/yourname/tree-detection)
 Real-time tree detection system using YOLO and Roboflow for forestry data.  
@@ -59,7 +59,8 @@ Real-time tree detection system using YOLO and Roboflow for forestry data.
 **Focus:** Data annotation, training, evaluation (Precision, Recall, IoU)
 
 
-### [2021 경희대 미석전 美石展 team: Griffin4.0](https://khuae.modoo.at/?link=d6rtc2qw)
+
+### 🏗️ [2021 경희대 미석전 美石展 team: Griffin4.0](https://khuae.modoo.at/?link=d6rtc2qw)
 
 ---
 
