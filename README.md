@@ -77,15 +77,8 @@ Bachelor of Engineering in **Architectural Engineering** (2017 – 2022)
 ## 🏆 Certificates & Achievements
 
 - AWS Certified System Architecture Associate (Planning)
-- Final-round interview at Google SWE (2023)
 - Math Teaching Experience for 12 month – Improved student performance by 70%+
 - Network Management Certification (KOR - 2018)
-
----
-
-## 📈 GitHub Stats
-
-![JuHyun's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=default)
 
 ---
 
