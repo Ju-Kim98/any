@@ -31,4 +31,4 @@ df["Xi_updated"] = df.apply(lambda row: estimate_volume_from_features(row["DBH_c
 
 output_path = CSV_PATH.replace(".csv", "_with_features.csv")
 df.to_csv(output_path, index=False)
-print(f"✅ Feature extraction complete. Saved to {output_path}")
+print(f"Feature extraction complete. Saved to {output_path}")
