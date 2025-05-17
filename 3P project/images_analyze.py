@@ -4,9 +4,9 @@ import pandas as pd
 import numpy as np
 import os
 
-ROBOFLOW_API_KEY = "your_api_key_here"
-PROJECT_NAME = "your-project-name"
-VERSION = "version-number"
+ROBOFLOW_API_KEY = "api_key"
+PROJECT_NAME = "3p_images"
+VERSION = "ver2"
 IMAGE_DIR = "lab_images/"
 
 rf = Roboflow(api_key=ROBOFLOW_API_KEY)
@@ -21,7 +21,7 @@ results = []
 for filename in os.listdir(IMAGE_DIR):
     if filename.lower().endswith((".jpg", ".jpeg", ".png")):
         filepath = os.path.join(IMAGE_DIR, filename)
-        print(f"🔍 Processing {filename}")
+        print(f"Processing {filename}")
         preds = model.predict(filepath).json()
 
         for i, obj in enumerate(preds["predictions"]):
@@ -38,4 +38,4 @@ for filename in os.listdir(IMAGE_DIR):
 
 df = pd.DataFrame(results)
 df.to_csv("output/tree_db_lab_images.csv", index=False)
-print("✅ Saved: output/tree_db_lab_images.csv")
+print("Saved: output/tree_db_lab_images.csv")
