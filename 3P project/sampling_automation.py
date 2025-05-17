@@ -25,4 +25,4 @@ df["SelectedForMeasurement"] = df[xi_column] < df["Random"]
 
 output_path = CSV_PATH.replace(".csv", "_3p_sampled.csv")
 df.to_csv(output_path, index=False)
-print(f"✅ 3P sampling complete. Results saved to {output_path}")
+print(f"3P sampling complete. Results saved to {output_path}")
