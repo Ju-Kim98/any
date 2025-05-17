@@ -1,5 +1,5 @@
 # About ME
-# 👋 Hi, I'm Ju Kim
+# 👋 Hi, I'm Ju
 
 I'm a junior software developer passionate about building meaningful applications and solving real-world problems using technology. I enjoy working on machine learning, web development, and data analysis projects.  
 
@@ -32,14 +32,14 @@ I'm a junior software developer passionate about building meaningful application
 
 ## 💻 Projects
 
-### 📊 [Stock Market Prediction with NLP](https://github.com/yourname/stock-nlp)
+### 📊 [Stock Market Prediction with NLP]
 Using BERT, RoBERTa, and TextRank to predict stock price movement based on financial news.  
 **Tech:** Python, Transformers, Scikit-learn, Pandas  
 **Highlights:** Achieved up to 76% accuracy on FNSPID dataset
 
 
 
-### 🧠 [Harmful Brain Activity Classification](https://github.com/yourname/eeg-classifier)
+### 🧠 [Harmful Brain Activity Classification]
 Built a deep learning model to classify harmful brain activity using EEG signals.  
 **Tech:** Python, KerasCV, EfficientNetV2, YOLOv8  
 **Result:** 0.57 leaderboard loss on Kaggle
@@ -53,7 +53,7 @@ A web app that recommends lunch using ensemble machine learning algorithms.
 
 
 
-### 🌲 [Tree Detection with Computer Vision](https://github.com/yourname/tree-detection)
+### 🌲 [Tree Detection with Computer Vision](https://github.com/Ju-Kim98/any/tree/main/3P%20project)
 Real-time tree detection system using YOLO and Roboflow for forestry data.  
 **Tech:** Python, Roboflow, OpenCV, YOLOv5  
 **Focus:** Data annotation, training, evaluation (Precision, Recall, IoU)
