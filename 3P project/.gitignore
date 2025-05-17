@@ -1,0 +1,15 @@
+
+lab_images/
+output/
+*.csv
+*.html
+*.json
+*.jpg
+*.jpeg
+*.png
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.ipynb
+*.log
