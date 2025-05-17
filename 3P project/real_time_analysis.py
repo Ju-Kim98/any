@@ -5,9 +5,9 @@ import numpy as np
 import sys
 import os
 
-ROBOFLOW_API_KEY = "your_api_key_here"
-PROJECT_NAME = "your-project-name"
-VERSION = "version-number"
+ROBOFLOW_API_KEY = "api_key"
+PROJECT_NAME = "3pProject"
+VERSION = "ver2"
 
 if len(sys.argv) != 2:
     print("Usage: python real_time_analysis.py <image_path>")
@@ -45,4 +45,4 @@ for i, obj in enumerate(preds["predictions"]):
 df = pd.DataFrame(results)
 csv_path = IMAGE_PATH.replace(".jpg", "_realtime_results.csv").replace(".png", "_realtime_results.csv")
 df.to_csv(f"output/{os.path.basename(csv_path)}", index=False)
-print(f"✅ Detection complete. Results saved to output/{os.path.basename(csv_path)}")
+print(f"Detection complete. Results saved to output/{os.path.basename(csv_path)}")
