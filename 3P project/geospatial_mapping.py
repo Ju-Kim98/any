@@ -36,4 +36,4 @@ for _, row in df.iterrows():
 
 map_path = CSV_PATH.replace(".csv", "_map.html")
 tree_map.save(map_path)
-print(f"✅ Map created and saved to {map_path}")
+print(f" Map created and saved to {map_path}")
