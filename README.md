@@ -32,14 +32,14 @@ I'm a junior software developer passionate about building meaningful application
 
 ## 💻 Projects
 
-### 📊 [Stock Market Prediction with NLP]
+### 📊 [Stock Market Prediction with NLP](https://github.com/Ju-Kim98/OSU/blob/main/AI539/AI539_Predicting%20Stock%20Market%20Movement%20with%20NLP_Final_Report.pdf)
 Using BERT, RoBERTa, and TextRank to predict stock price movement based on financial news.  
 **Tech:** Python, Transformers, Scikit-learn, Pandas  
 **Highlights:** Achieved up to 76% accuracy on FNSPID dataset
 
 
 
-### 🧠 [Harmful Brain Activity Classification]
+### 🧠 [Harmful Brain Activity Classification](https://github.com/Ju-Kim98/OSU/blob/main/AI535/Final%20Project%20report.pdf)
 Built a deep learning model to classify harmful brain activity using EEG signals.  
 **Tech:** Python, KerasCV, EfficientNetV2, YOLOv8  
 **Result:** 0.57 leaderboard loss on Kaggle
